@@ -1,5 +1,4 @@
 # Advanced_Java-and-Python
-Java &amp; Python related work by Carlos A. Valdez
 ## Carlos A. Valdez
 ### Overview:
 * In this repository, you will find Java and Python related work increasing in difficulty and complexity over various key components of the languages.
